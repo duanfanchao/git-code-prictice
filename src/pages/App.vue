@@ -8,7 +8,9 @@ export default {
     components: {},
     data () {
         return {
-            userInfo: {}, // 用户信息
+            userInfo: {
+              level: 'admin',
+            }
         }
     },
     computed: {},
