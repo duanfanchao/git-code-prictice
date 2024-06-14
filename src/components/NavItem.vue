@@ -8,13 +8,15 @@ export default {
     components: {},
     data () {
         return {
-            
+           itemList: [], 
         }
     },
     computed: {},
     methods: {},
     created () {},
-    mounted () {},
+    mounted () {
+        console.log(this.itemList);
+    },
 }
 </script>
 
