@@ -2,4 +2,7 @@
 
 const state = {
     count: 0,
+    userInfo: {
+        name: '张三',
+    }
 }
