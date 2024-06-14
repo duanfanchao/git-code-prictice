@@ -10,7 +10,9 @@ export default {
         return {
             userInfo: {
               level: 'admin',
-            }
+              name: '六四元',
+            },
+            type: 1,
         }
     },
     computed: {},
