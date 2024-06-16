@@ -20,6 +20,12 @@ export default {
       firstF() {
 
       },
+      secondF() {
+
+      },
+      thirdF() {
+
+      },
     },
     created () {},
     mounted () {},
