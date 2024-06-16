@@ -16,7 +16,11 @@ export default {
         }
     },
     computed: {},
-    methods: {},
+    methods: {
+      firstF() {
+
+      },
+    },
     created () {},
     mounted () {},
 }
