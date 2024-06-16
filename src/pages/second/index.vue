@@ -20,6 +20,9 @@ export default {
       firstF() {
 
       },
+      secondF() {
+
+      },
     },
     created () {},
     mounted () {},
