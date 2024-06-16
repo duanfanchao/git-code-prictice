@@ -23,6 +23,9 @@ export default {
       secondF() {
 
       },
+      thirdF() {
+
+      },
     },
     created () {},
     mounted () {},
