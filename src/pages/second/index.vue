@@ -32,6 +32,9 @@ export default {
       fifthF() {
 
       },
+      sixthF() {
+
+      },
     },
     created () {},
     mounted () {},
