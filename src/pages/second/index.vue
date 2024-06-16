@@ -26,6 +26,9 @@ export default {
       thirdF() {
 
       },
+      fourthF() {
+
+      },
     },
     created () {},
     mounted () {},
