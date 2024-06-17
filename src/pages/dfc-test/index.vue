@@ -12,7 +12,7 @@ export default {
 			second: 2,
 			third: 3,
 			fourth: 4,
-            sixth: 6,
+            fifth: 5,
 		};
 	},
 	computed: {},
