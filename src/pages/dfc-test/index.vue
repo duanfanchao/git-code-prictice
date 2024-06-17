@@ -1,35 +1,32 @@
 <template>
-  <div class="dfc-test"></div>
+	<div class="dfc-test"></div>
 </template>
 
 <script>
 export default {
-    name: 'dfc-test',
-    components: {},
-    data () {
-        return {
-            first: 1,
-            second: 2,
-            third: 3,
-        }
-    },
-    computed: {},
-    methods: {
-        changeFirst() {
-
-        },
-        changeSecond() {
-
-        },
-    },
-    created () {},
-    mounted () {},
-}
+	name: "dfc-test",
+	components: {},
+	data() {
+		return {
+			first: 1,
+			second: 2,
+			third: 3,
+			fourth: 4,
+		};
+	},
+	computed: {},
+	methods: {
+		changeFirst() {},
+		changeSecond() {},
+	},
+	created() {},
+	mounted() {},
+};
 </script>
 
 <style lang="less" scoped>
 .dfc-test {
-    height: 100%;
-    width: 100%;
+	height: 100%;
+	width: 100%;
 }
 </style>
