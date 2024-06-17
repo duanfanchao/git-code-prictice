@@ -9,10 +9,18 @@ export default {
     data () {
         return {
             first: 1,
+            second: 2,
         }
     },
     computed: {},
-    methods: {},
+    methods: {
+        changeFirst() {
+
+        },
+        changeSecond() {
+
+        },
+    },
     created () {},
     mounted () {},
 }
