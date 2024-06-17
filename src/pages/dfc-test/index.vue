@@ -15,6 +15,7 @@ export default {
             fifth: 5,
             sixth: 6,
             seventh: 7,
+            eighth: 8,
 		};
 	},
 	computed: {},
