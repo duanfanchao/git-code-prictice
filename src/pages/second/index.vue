@@ -13,6 +13,7 @@ export default {
         return {
             visible: false,
             listArray: [],
+            first: 1,
         }
     },
     computed: {},
