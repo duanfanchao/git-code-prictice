@@ -12,10 +12,31 @@ export default {
     data () {
         return {
             visible: false,
+            listArray: [],
+            first: 1,
         }
     },
     computed: {},
-    methods: {},
+    methods: {
+      firstF() {
+
+      },
+      secondF() {
+
+      },
+      thirdF() {
+
+      },
+      fourthF() {
+
+      },
+      fifthF() {
+
+      },
+      sixthF() {
+
+      },
+    },
     created () {},
     mounted () {},
 }
