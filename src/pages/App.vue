@@ -8,7 +8,12 @@ export default {
     components: {},
     data () {
         return {
-            
+            arr: [
+              {
+                name: '段凡超',
+                age: 12,
+              }
+            ]
         }
     },
     computed: {},
