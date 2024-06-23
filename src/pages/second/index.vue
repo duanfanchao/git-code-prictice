@@ -12,7 +12,10 @@ export default {
     data () {
         return {
             visible: false,
-            listArray: [],
+            listArray: [
+              {name: 'a',age: 12},
+              {name: 'b',age: 12},
+            ],
             first: 1,
         }
     },
