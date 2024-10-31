@@ -5,7 +5,10 @@
   * @date: 2024/06/20 10:00:00
 -->
 <template>
-  <div class="app">首页</div>
+  <div class="app">
+    <div class="header">头部</div>
+    <div class="content">内容</div>
+  </div>
 </template>
 
 <script>
