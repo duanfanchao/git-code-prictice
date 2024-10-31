@@ -7,7 +7,10 @@
 <template>
   <div class="app">
     <div class="header">头部</div>
-    <div class="content">内容</div>
+    <div class="content">
+        <div class="side">菜单栏</div>
+        <div class="container">内容</div>
+    </div>
   </div>
 </template>
 
