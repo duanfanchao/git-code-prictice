@@ -20,7 +20,8 @@ export default {
     components: {},
     data () {
         return {
-            
+            data: [],
+            info: null,
         }
     },
     computed: {},
