@@ -20,7 +20,7 @@ export default {
     components: {},
     data () {
         return {
-            
+            status: false,
         }
     },
     computed: {},
