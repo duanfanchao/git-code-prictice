@@ -23,6 +23,10 @@ export default {
             data: [],
             info: null,
             num: 0,
+
+            total: 1,
+            pageSize: 20,
+            pageIndex: 1,
         }
     },
     computed: {},
