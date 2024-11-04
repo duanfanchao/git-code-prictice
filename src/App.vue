@@ -27,6 +27,8 @@ export default {
             total: 1,
             pageSize: 20,
             pageIndex: 1,
+
+            message: '信息',
         }
     },
     computed: {},
