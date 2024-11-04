@@ -22,6 +22,7 @@ export default {
         return {
             data: [],
             info: null,
+            num: 0,
         }
     },
     computed: {},
