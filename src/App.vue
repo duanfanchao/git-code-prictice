@@ -27,10 +27,23 @@ export default {
             total: 1,
             pageSize: 20,
             pageIndex: 1,
+
+            message: '信息',
         }
     },
-    computed: {},
-    methods: {},
+    computed: {
+        id() {
+            return 1;
+        },
+    },
+    methods: {
+        add() {
+            console.log('这是add方法');
+        },
+        increment() {
+            console.log('这是increment方法');
+        },
+    },
     created () {},
     mounted () {},
 }
