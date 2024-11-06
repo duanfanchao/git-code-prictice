@@ -32,7 +32,11 @@ export default {
         }
     },
     computed: {},
-    methods: {},
+    methods: {
+        add() {
+            console.log('这是add方法');
+        },
+    },
     created () {},
     mounted () {},
 }
