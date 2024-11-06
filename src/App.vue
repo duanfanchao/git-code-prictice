@@ -30,6 +30,9 @@ export default {
         add() {
             console.log('add');
         },
+        increment() {
+            console.log('increment');
+        },
     },
     created () {},
     mounted () {},
