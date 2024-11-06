@@ -35,6 +35,9 @@ export default {
         id() {
             return 1;
         },
+        exTime() {
+            return ''
+        }
     },
     methods: {
         add() {
