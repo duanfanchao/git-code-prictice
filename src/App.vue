@@ -31,17 +31,10 @@ export default {
             message: '信息',
         }
     },
-    computed: {
-        id() {
-            return 1;
-        },
-    },
+    computed: {},
     methods: {
         add() {
-            console.log('这是add方法');
-        },
-        increment() {
-            console.log('这是increment方法');
+            console.log('add');
         },
     },
     created () {},
