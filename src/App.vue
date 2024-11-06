@@ -33,6 +33,9 @@ export default {
         increment() {
             console.log('increment');
         },
+        do() {
+            console.log('do');
+        },
     },
     created () {},
     mounted () {},
