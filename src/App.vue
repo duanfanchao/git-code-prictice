@@ -23,28 +23,18 @@ export default {
             data: [],
             info: null,
             num: 0,
-
-            total: 1,
-            pageSize: 20,
-            pageIndex: 1,
-
-            message: '信息',
         }
     },
-    computed: {
-        id() {
-            return 1;
-        },
-        exTime() {
-            return ''
-        }
-    },
+    computed: {},
     methods: {
         add() {
-            console.log('这是add方法');
+            console.log('add');
         },
         increment() {
-            console.log('这是increment方法');
+            console.log('increment');
+        },
+        do() {
+            console.log('do');
         },
     },
     created () {},
