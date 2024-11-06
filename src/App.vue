@@ -30,7 +30,11 @@ export default {
         }
     },
     computed: {},
-    methods: {},
+    methods: {
+        add() {
+            console.log('add');
+        },
+    },
     created () {},
     mounted () {},
 }
