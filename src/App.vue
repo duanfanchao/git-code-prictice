@@ -31,7 +31,11 @@ export default {
             message: '信息',
         }
     },
-    computed: {},
+    computed: {
+        id() {
+            return 1;
+        },
+    },
     methods: {
         add() {
             console.log('这是add方法');
