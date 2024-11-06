@@ -36,6 +36,9 @@ export default {
         add() {
             console.log('这是add方法');
         },
+        increment() {
+            console.log('这是increment方法');
+        },
     },
     created () {},
     mounted () {},
